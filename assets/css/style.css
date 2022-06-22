@@ -1129,3 +1129,8 @@ section {
     padding-right: 20px 15px;
   }
 }
+@media (max-width:630px) {
+  .container{
+    margin-top: 55px;
+  }
+  }
